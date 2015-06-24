@@ -1,0 +1,16 @@
+﻿Build started 6/15/2015 8:11:43 PM.
+     1>Project "C:\Users\tjimma\Documents\Visual Studio 2013\Projects\InterviewPreparationsApplications\CPPApplications\CPPApplications.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\CPPApplications.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CPPApplications.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CPPApplications.cpp
+         CPPApplications.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\tjimma\Documents\Visual Studio 2013\Projects\InterviewPreparationsApplications\Debug\CPPApplications.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\tjimma\Documents\Visual Studio 2013\Projects\InterviewPreparationsApplications\Debug\CPPApplications.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\tjimma\Documents\Visual Studio 2013\Projects\InterviewPreparationsApplications\Debug\CPPApplications.lib" /MACHINE:X86 Debug\CPPApplications.obj
+         Debug\stdafx.obj
+         CPPApplications.vcxproj -> C:\Users\tjimma\Documents\Visual Studio 2013\Projects\InterviewPreparationsApplications\Debug\CPPApplications.exe
+     1>Done Building Project "C:\Users\tjimma\Documents\Visual Studio 2013\Projects\InterviewPreparationsApplications\CPPApplications\CPPApplications.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.81

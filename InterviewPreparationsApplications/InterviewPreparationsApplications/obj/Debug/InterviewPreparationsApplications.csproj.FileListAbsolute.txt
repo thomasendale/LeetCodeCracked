@@ -1,0 +1,6 @@
+c:\users\tjimma\documents\visual studio 2013\Projects\InterviewPreparationsApplications\InterviewPreparationsApplications\bin\Debug\InterviewPreparationsApplications.exe.config
+c:\users\tjimma\documents\visual studio 2013\Projects\InterviewPreparationsApplications\InterviewPreparationsApplications\bin\Debug\InterviewPreparationsApplications.exe
+c:\users\tjimma\documents\visual studio 2013\Projects\InterviewPreparationsApplications\InterviewPreparationsApplications\bin\Debug\InterviewPreparationsApplications.pdb
+c:\users\tjimma\documents\visual studio 2013\Projects\InterviewPreparationsApplications\InterviewPreparationsApplications\obj\Debug\InterviewPreparationsApplications.exe
+c:\users\tjimma\documents\visual studio 2013\Projects\InterviewPreparationsApplications\InterviewPreparationsApplications\obj\Debug\InterviewPreparationsApplications.pdb
+C:\Users\tjimma\Documents\Visual Studio 2013\Projects\InterviewPreparationsApplications\InterviewPreparationsApplications\obj\Debug\InterviewPreparationsApplications.csprojResolveAssemblyReference.cache
