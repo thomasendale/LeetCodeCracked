@@ -51,7 +51,6 @@
     <Compile Include="LinkedList\LinkedList.cs" />
     <Compile Include="LinkedList\LinkedListImplementation.cs" />
     <Compile Include="LRU\LRUCache.cs" />
-    <Compile Include="LRU\prop.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
